@@ -34,7 +34,7 @@
    ```
 - 输入/mj 即可使用绘图模式
 - 绘图期间请勿刷新网页、切换别的聊天窗口。
-- [MidjourneyAPI](https://midjourneyapi.zxx.im/)
+- [MidjourneyAPI](https://www.shademeta.com/article/551a495a-72b3-4b61-829b-0bbf14f7b599)
 
 ![](https://s3.bmp.ovh/imgs/2023/05/15/f0c7f67ef3eb075b.png)
 

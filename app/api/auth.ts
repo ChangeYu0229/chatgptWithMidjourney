@@ -85,7 +85,7 @@ export function authMj(req: NextRequest) {
   } else {
     return {
       error: true,
-      msg: "Empty Midjourney Api Key. Go to: [MidjourneyAPI](https://midjourneyapi.zxx.im/)",
+      msg: "Midjourney Api Key 为空或不正确. [点击获取MidjourneyAPI](https://www.shademeta.com/article/551a495a-72b3-4b61-829b-0bbf14f7b599)",
     };
   }
 

@@ -31,7 +31,7 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
    ```
 - 输入/mj 即可使用绘图模式
 - 绘图期间请勿刷新网页、切换别的聊天窗口。
-- [MidjourneyAPI](https://midjourneyapi.zxx.im/)
+- [MidjourneyAPI](https://www.shademeta.com/article/551a495a-72b3-4b61-829b-0bbf14f7b599)
 
 也可以直接在设置里面填写mj key即可调用绘图功能。
 <img width="810" alt="image" src="https://github.com/Zo3i/chatgptWithMidjourney/assets/30296801/d15f6c9a-9175-4399-bed8-8517db32fffe">
