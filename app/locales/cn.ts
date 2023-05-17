@@ -193,7 +193,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "前往公众号：**[你今天AI了吗](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4NTk2MzM1MQ==&scene=124#wechat_redirect)** 回复  **密码** 免费获取密码"
+    BotHello: "前往公众号：**[你今天AI了吗](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4NTk2MzM1MQ==&scene=124#wechat_redirect)** 回复  **密码** 免费获取密码",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
