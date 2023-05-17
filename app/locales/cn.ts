@@ -4,9 +4,9 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "前往公众号：**[你今天AI了吗](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4NTk2MzM1MQ==&scene=124#wechat_redirect)** 回复  **密码** 免费获取密码，然后点击左下角[设置](/#/settings)按钮输入密码后解锁**免费使用**。",
-
-      "使用说明👉 **[点击查看](https://ssw9noe1h6.feishu.cn/docx/SFfTdBmnKokLSFxtINnc3ugKnFc)** ",
+      "前往公众号：**[你今天AI了吗](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4NTk2MzM1MQ==&scene=124#wechat_redirect)** 回复  **密码** 免费获取密码，然后点击左下角[设置](/#/settings)按钮输入密码后解锁**免费使用**。<br><br>使用说明👉 **[点击查看](https://ssw9noe1h6.feishu.cn/docx/SFfTdBmnKokLSFxtINnc3ugKnFc)** "
+    
+     
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
