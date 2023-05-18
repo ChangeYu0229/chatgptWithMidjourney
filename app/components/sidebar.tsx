@@ -121,8 +121,8 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>AI佩奇</div>
         <div className={styles["sidebar-sub-title"]}>
-        你的免费私人GPT和Midjourney助理.<br />
-        Midjourney功能请在对话框输入：/mj.<br />
+        你的免费私人GPT和Midjourney助理.
+        Midjourney功能请在对话框输入：/mj
         收藏当前页面即可永不迷路.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
