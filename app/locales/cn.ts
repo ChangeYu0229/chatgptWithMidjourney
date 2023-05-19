@@ -193,7 +193,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "前往🚀公众号：**[你今天AI了吗](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4NTk2MzM1MQ==&scene=124#wechat_redirect)** 回复  **密码** 免费获取密码，然后点击左下角[设置](/#/settings)按钮输入密码后解锁**免费使用**。\n\n使用说明👉 **[点击查看](https://ssw9noe1h6.feishu.cn/docx/SFfTdBmnKokLSFxtINnc3ugKnFc)**\n\n卡顿或无响应？可能是用户量太大，**[👉点这里获取独立账号 KEY 使用](https://www.shademeta.com/article/551a495a-72b3-4b61-829b-0bbf14f7b599)**",
+    BotHello: "前往🚀公众号：**[你今天AI了吗](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4NTk2MzM1MQ==&scene=124#wechat_redirect)** 回复  **密码** 免费获取密码，然后点击左下角[设置](/#/settings)按钮输入密码后解锁**免费使用**。\n\n使用说明👉 **[点击查看](https://ssw9noe1h6.feishu.cn/docx/SFfTdBmnKokLSFxtINnc3ugKnFc)**\n\n卡顿或无响应？可能是用户量太大，**[👉点这里获取独立账号 KEY 使用，支持GPT和GJ官方代充](https://www.shademeta.com/article/551a495a-72b3-4b61-829b-0bbf14f7b599)**",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
