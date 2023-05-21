@@ -158,10 +158,7 @@ const cn = {
       fastMode: true,
     },
 
-    MjProxyUrl: {
-      name: "MJ 反向代理",
-      Placeholder: "包含http(s)//",
-    },
+    
 
     MJAccessCode: {
       Title: "访问密码",
