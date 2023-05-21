@@ -144,7 +144,7 @@ const cn = {
     MjKey: {
       Title: "MJ API Key",
       SubTitle:  "",
-      Placeholder: "Midjourney API Key",
+      Placeholder: "请输入购买的MJ API Key",
     },
 
     MjApiUrl: {
@@ -158,7 +158,6 @@ const cn = {
       fastMode: true,
     },
 
-    
 
     MJAccessCode: {
       Title: "访问密码",
