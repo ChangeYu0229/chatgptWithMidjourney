@@ -143,8 +143,8 @@ const cn = {
 
     MjKey: {
       Title: "MJ API Key",
-      SubTitle:  "快捷配置MJ API Key",
-      Placeholder: "请输入购买的Midjourney API Key",
+      SubTitle:  "请输入购买的Midjourney API Key",
+      Placeholder: "Midjourney API Key",
     },
 
     MjApiUrl: {
