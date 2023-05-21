@@ -137,8 +137,8 @@ const cn = {
     },
     Token: {
       Title: "API Key",
-      SubTitle: "使用自己的 Key 可绕过密码访问限制",
-      Placeholder: "OpenAI API Key",
+      SubTitle: "[点击购买独享通道](https://www.shademeta.com/article/551a495a-72b3-4b61-829b-0bbf14f7b599)",
+      Placeholder: "API Key",
     },
 
     MjKey: {
@@ -165,7 +165,7 @@ const cn = {
 
     MJAccessCode: {
       Title: "访问密码",
-      SubTitle: "管理员已开启加密访问",
+      SubTitle: "公众号回复[密码]免费领取",
       Placeholder: "请输入访问密码",
     },
 
