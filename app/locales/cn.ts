@@ -137,14 +137,14 @@ const cn = {
     },
     Token: {
       Title: "API Key",
-      SubTitle: "免费用户无需填写，佩奇自掏腰包，独享通道请联系客服购买",
+      SubTitle: "",
       Placeholder: "API Key",
     },
 
     MjKey: {
       Title: "MJ API Key",
-      SubTitle:  "",
-      Placeholder: "请输入购买的MJ API Key",
+      SubTitle:  "快捷配置MJ API Key",
+      Placeholder: "请输入购买的Midjourney API Key",
     },
 
     MjApiUrl: {
@@ -158,6 +158,10 @@ const cn = {
       fastMode: true,
     },
 
+    MjProxyUrl: {
+      name: "MJ 反向代理（无需填写）",
+      Placeholder: "包含http(s)//",
+    },
 
     MJAccessCode: {
       Title: "访问密码",
