@@ -137,13 +137,13 @@ const cn = {
     },
     Token: {
       Title: "API Key",
-      SubTitle: "",
+      SubTitle: "免费用户无需填写，佩奇自掏腰包，独享通道请联系客服购买",
       Placeholder: "API Key",
     },
 
     MjKey: {
       Title: "MJ API Key",
-      SubTitle:  "免费用户无需填写，佩奇自掏腰包，独享通道请联系客服购买",
+      SubTitle:  "",
       Placeholder: "Midjourney API Key",
     },
 
