@@ -142,7 +142,7 @@ const cn = {
     },
 
     MjKey: {
-      Title: "MJ API Key",
+      Title: "[点击购买](https://www.shademeta.com/article/551a495a-72b3-4b61-829b-0bbf14f7b599)MJ API Key",
       SubTitle: "[点击购买](https://www.shademeta.com/article/551a495a-72b3-4b61-829b-0bbf14f7b599)",
       Placeholder: "Midjourney API Key",
     },
@@ -155,7 +155,7 @@ const cn = {
 
     MjMode: {
       name: "MJ 快速制图",
-      fastMode: false,
+      fastMode: true,
     },
 
     MjProxyUrl: {
