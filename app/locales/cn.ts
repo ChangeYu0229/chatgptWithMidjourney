@@ -143,7 +143,7 @@ const cn = {
 
     MjKey: {
       Title: "MJ API Key",
-      SubTitle: "<a href=https://www.shademeta.com/article/551a495a-72b3-4b61-829b-0bbf14f7b599>点击购买</a>",
+      SubTitle:  `设置选项。前往<a href="https://example.com">这个链接</a>。`,
       Placeholder: "Midjourney API Key",
     },
 
