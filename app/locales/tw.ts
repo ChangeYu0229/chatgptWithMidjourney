@@ -180,7 +180,7 @@ const tw: LocaleType = {
       SubTitle: "目前是未授權存取狀態",
       Placeholder: "請輸入授權碼",
     },
-    Model: "模型 (model)",
+    Model: "模型 (切换后需新建聊天生效)",
     Temperature: {
       Title: "隨機性 (temperature)",
       SubTitle: "值越大，回應越隨機",

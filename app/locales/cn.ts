@@ -183,7 +183,7 @@ const cn = {
       SubTitle: "公众号回复[密码]免费领取",
       Placeholder: "请输入访问密码",
     },
-    Model: "模型 (model)",
+    Model: "模型 (切换后需新建聊天生效)",
     Temperature: {
       Title: "随机性 (temperature)",
       SubTitle: "值越大，回复越随机",
