@@ -199,7 +199,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "前往🚀公众号：**[你今天AI了吗](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4NTk2MzM1MQ==&scene=124#wechat_redirect)** 回复  **密码** 免费获取密码，然后点击左下角[设置](/#/settings)按钮输入密码后解锁**免费使用**。\n\n使用说明👉 **[点击查看](https://ssw9noe1h6.feishu.cn/docx/SFfTdBmnKokLSFxtINnc3ugKnFc)**\n\n想体验更快更高级的服务？**[👉点这里获取独享快速通道，同时支持GPT和MJ官方代充](https://7t82qtu91d3.typeform.com/to/ZWwsiJDc)**",
+    BotHello: "前往🚀公众号：**[你今天AI了吗](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4NTk2MzM1MQ==&scene=124#wechat_redirect)** 回复  **密码** 免费获取密码，然后点击左下角[设置](/#/settings)按钮输入密码后解锁**免费使用**。\n\n使用说明👉 **[点击查看](https://ssw9noe1h6.feishu.cn/docx/SFfTdBmnKokLSFxtINnc3ugKnFc)**\n\n想体验更快更高级的服务？**[👉点这里获取独享快速通道，支持 GPT - Poe - MJ 稳定 0 封号美国🇺🇸注册和订阅](https://7t82qtu91d3.typeform.com/to/ZWwsiJDc)**",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
